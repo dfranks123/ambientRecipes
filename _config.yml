@@ -23,13 +23,15 @@ title: Ambient Recipes
 description: >- # this means to ignore newlines until "baseurl:"
   From Plate to Page: Ambient Recipes transforms signature dishes into digital atmospheres. Flavorful Interfaces, Served Fresh.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: https://dfranks123.github.io/AmbientRecipes
+aux_links:
+  Source: https://github.com/dfranks123/ambientRecipes
 #github: dylan_franks3
-
+baseurl: /AmbientRecipes
 theme: minima
 plugins:
   - jekyll-feed
+include: [assets]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

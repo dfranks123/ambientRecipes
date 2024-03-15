@@ -7,7 +7,7 @@ layout: home
 
 
 
-# <b>From Plate to Page:</b> we transform signature dishes into digital atmospheres.
+# <b>From Plate to Page:</b> ambient recipes transform signature dishes into digital atmospheres.
 
 # <b>Flavorful Interfaces, Served Fresh.</b>
 

@@ -1,0 +1,25 @@
+﻿---
+layout: post
+title:  Max's Sandwich Shop
+date:   2024-03-12 07:23:54 +0000
+---
+![Sandwich]({{site.baseurl}}/assets/sandwich.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+<figcaption>Max's Sandwich Shop - Esquires</figcaption>
+<br>
+## Well isn't that something special? 
+
+The ooze. The crisp. The crunch. 
+
+It's truly outrageous. This is Max Halley in a sandwich.
+
+A true concotion of refined style and utter madness. This sandwich perfectly traces the line between this dichotomy - Max has created a sandwich as a pure manifestation of himself and his shop. 
+
+
+When one enter's Max's, you're immediately greated by rich and sweet scent of fried chips and then your attention is immediately snatched by the booming hispter music of the early 2000's (probably his hayday). Now don't forget, you've probably just walked from Finsbury Park Station to get here - probably rather quickly to avoid getting mugged - but now you're not sure exactly sure whether you should turn around and go back to the station. But then it suddenly all changes. 
+
+You're greeted by a warm friendly face; a smile beaming from side to side and long shaggy locks tracing down the side of his face. These locks look almost like those shoestring fries that star on the plates of those that choose the [**HAM, EGG 'N' CHIPS**]({{site.baseurl}}/2024/03/12/maxs.html#Recipe:~:text=e%20e%20e-,Recipe,-Ambient%20Recipes). It seems like at Max's there's always somehow a table just waiting for you, considering the shop doesn't allow reservations. He quickly points you to the only table left - he's clearly in a rush. You go sit on the wooden bench that the appropriate size of nursery children and your then surrounded
+
+
+
+# Recipe
+

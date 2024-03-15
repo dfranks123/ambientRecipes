@@ -5,3 +5,9 @@
 layout: home
 ---
 
+
+
+# <b>From Plate to Page:</b> we transform signature dishes into digital atmospheres.
+
+# <b>Flavorful Interfaces, Served Fresh.</b>
+

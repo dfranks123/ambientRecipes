@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Max's Sandwich Shop First Person Descrption
+title:  Max's Sandwich Shop First Person Description
 date:   2024-03-29 07:23:54 +0000
 ---
 ![Sandwich]({{site.baseurl}}/assets/sandwich.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
@@ -29,7 +29,7 @@ I'm greeted by a warm friendly face; a smile beaming from side to side and long 
 
 I order the classic, the **HAM, EGG 'N' CHIPS** and within 5 minutes it's sitting in front of me. 
 
-It's not quite what Esquires made it out to look like. In this case it's more of a jenga tower. A jenga tower of slow cooked ham hock, a fried egg, piccalilli, shoestring fries and malt vinger mayo - all wrapped up in crispy focaccia bread. Almost immediately I started resembling those Red Hot Chilli Pepper loving hipsters; my face sufficiently doused in everything in front of me. Max hobbles over in his idiosyncratic way and interrupted my carnage asking, "hey buddy, everything alright?". It took me a moment to collect myself. I give him the ever familiar full-mouth-silent-nod as he hobbled back to the kitchen. Another happy customer in his sandwich sanctuary. 
+It's not quite what Esquires magazine made it out to look like. In this case it's more of a jenga tower. A jenga tower of slow cooked ham hock, a fried egg, piccalilli, shoestring fries and malt vinger mayo - all wrapped up in crispy focaccia bread. Almost immediately I started resembling those Red Hot Chilli Pepper loving hipsters; my face sufficiently doused in everything in front of me. Max hobbles over in his idiosyncratic way and interrupted my carnage asking, "hey buddy, everything alright?". It took me a moment to collect myself. I give him the ever familiar full-mouth-silent-nod as he hobbled back to the kitchen. Another happy customer in his sandwich sanctuary. 
 
  ![tabasco]({{site.baseurl}}/assets/tabasco.jpg)
 

@@ -1,11 +1,10 @@
 ﻿---
 layout: post
-title:  Max's Sandwich Shop
+title:  Max's Sandwich Shop Description
 date:   2024-03-12 07:23:54 +0000
 ---
 ![Sandwich]({{site.baseurl}}/assets/sandwich.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Max's Sandwich Shop - Esquires</figcaption>
-<br>
 <br>
 ## Well isn't that something special? 
 
@@ -16,13 +15,12 @@ It's truly outrageous. This is Max Halley in a sandwich.
 A true concotion of refined style and utter madness. This sandwich perfectly traces the line of this dichotomy - Max's brainchild is the ultimate manifestation of himself - with the sandwich being served in his sanctuary. 
 
 
-When one enters Max's, you're immediately greeted by the rich and sweet scent of fried chips with your attention suddenly snatched by the booming hispter music of the early 2000's (Max's hayday). Looking around, there's tidbits and clutter everywhere like a raided charity shop. Illuminated in warm neon lights, they seem somewhat esoteric and sentimentally arranged, as though they were put there chronologically, marking each chapter of one's post-teenage travels around the world. Your not quite sure how you've ended up here and now you're considering whether you should just turn around and go back home. But don't all of a sudden forget that you're in that shady part of town. You've probably just walked all the way from Finsbury Park Station and probably rather quickly to avoid getting mugged. You look up to see if there's anything here for you. 
-<br>
+When one enters Max's, you're immediately greeted by the rich and sweet scent of fried chips with your attention suddenly snatched by the booming hispter music of the early 2000's (Max's heyday). Looking around, there's tidbits and clutter everywhere like a raided charity shop. Illuminated in warm neon lights, they seem somewhat esoteric and sentimentally arranged, as though they were put there chronologically, marking each chapter of one's post-teenage travels around the world. Your not quite sure how you've ended up here and now you're considering whether you should just turn around and go back home. But don't all of a sudden forget that you're in that shady part of town. You've probably just walked all the way from Finsbury Park Station and probably rather quickly to avoid getting mugged. You look up to see if there's anything here for you. 
+
 
 
 ![max]({{site.baseurl}}/assets/maxhalley.jpg)
 
-<br>
 You're greeted by a warm friendly face; a smile beaming from side to side and long shaggy hair. The locks of hair almost resemble those shoestring fries that star on the plates of those that choose the **HAM, EGG 'N' CHIPS**. It seems like at Max's there's always somehow a table just waiting for you, considering that the shop doesn't allow reservations. He quickly ushers you to the only table left. He's clearly in a rush so you go to sit at the table on a wooden bench that's the appropriate size for nursery children. You then realise you're surrounded by every hipster in North-London. They're all looking at you in their Carhartt jackets and rolled up baggy jeans, with stains of egg yolk and chipotle Tabasco running down their face. You're not sure whether to smile or recoil back into the wall with the wisely placed quote:
 
 > “I'm forever near a stereo saying, 'What the fuck is this garbage?' And the answer is always the Red Hot Chili Peppers" - Nick Cave 

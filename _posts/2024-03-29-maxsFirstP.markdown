@@ -12,8 +12,12 @@ The ooze. The crisp. The crunch.
 
 It's truly outrageous. This is Max Halley in a sandwich.
 
-A true concotion of refined style and utter madness. This sandwich perfectly traces the line of this dichotomy - Max's brainchild is the ultimate manifestation of himself - with the sandwich being served in his sanctuary. 
+A concotion of refined style and utter madness. This sandwich perfectly skirts the line of this dichotomy - Max's brainchild is the ultimate manifestation of himself - with the sandwich being served in his sanctuary. 
 
+
+---
+<br>
+### *My first time at Max's*
 
 As I step into Max's, I'm immediately greeted by the rich and sweet scent of fried chips, and then my attention is suddenly grabbed by the booming hipster music of the early 2000s (Max's heyday). Looking around, there's tidbits and clutter everywhere like a raided charity shop. These tidbits are illuminated in warm neon lights, seemingly somewhat esoteric and sentimentally arranged, as though they were put there chronologically, marking each chapter of Max's travels around the world. I'm not quite sure how I've ended up here and now I'm considering whether I should just turn around and go back home. Quickly I remember I'm in that shady part of town. I've just walked all the way from Finsbury Park Station, and rather quickly at that to avoid getting mugged. I look up to see if there's anything here for me.
 

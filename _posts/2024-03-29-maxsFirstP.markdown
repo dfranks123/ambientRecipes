@@ -51,7 +51,7 @@ So let's give an ode to Max, we bottle the ambience of the restaraunt and his sa
 
 <br>
 <div align="center">
-<video width="800" controls>
+<video width="740" controls>
     <source src="{{site.baseurl}}/assets/sauce.mp4" type="video/mp4">
 </video>
 </div>

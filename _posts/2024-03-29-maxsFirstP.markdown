@@ -19,12 +19,12 @@ A concotion of refined style and utter madness. This sandwich perfectly skirts t
 <br>
 ### *My first time at Max's*
 
-As I step into Max's, I'm immediately greeted by the rich and sweet scent of fried chips, and then my attention is suddenly grabbed by the booming hipster music of the early 2000s (Max's heyday). Looking around, there's tidbits and clutter everywhere like a raided charity shop. These tidbits are illuminated in warm neon lights, seemingly somewhat esoteric and sentimentally arranged, as though they were put there chronologically, marking each chapter of Max's travels around the world. I'm not quite sure how I've ended up here and now I'm considering whether I should just turn around and go back home. Quickly I remember I'm in that shady part of town. I've just walked all the way from Finsbury Park Station, and rather quickly at that to avoid getting mugged. I look up to see if there's anything here for me.
+As I step in, I'm immediately greeted by the rich and sweet scent of fried chips, and then my attention is suddenly grabbed by the booming hipster music of the early 2000s (Max's heyday). Looking around, there's tidbits and clutter everywhere like a raided charity shop. These tidbits are illuminated in warm neon lights, seemingly somewhat esoteric and sentimentally arranged, as though they were put there chronologically, marking each chapter of Max's travels around the world. I'm not quite sure how I've ended up here and now I'm considering whether I should just turn around and go back home. Quickly I remember I'm in that shady part of town. I've just walked all the way from Finsbury Park Station, and rather quickly at that to avoid getting mugged. I look up to see if there's anything here for me.
 
 
 ![max]({{site.baseurl}}/assets/maxhalley.jpg)
 
-I'm greeted by a warm friendly face; a smile beaming from side to side and long shaggy hair. The locks of hair almost resemble those shoestring fries that star on the plates of those that choose the **HAM, EGG 'N' CHIPS**. Even though the shop is stuffed to the gills, Max quickly ushered me to the only table left in the corner. He's clearly in a rush so I went and sat at the table on a wooden bench that's the appropriate size for nursery children. I then realised I was surrounded by every hipster in North-London. They were all staring at me in their Carhartt jackets and rolled up baggy jeans, with stains of egg yolk and chipotle Tabasco running down their face. 
+I'm greeted by a warm friendly face; a smile beaming from side to side and long shaggy hair. Maybe Max is the hallmark of the shop.  The locks of hair almost resemble those shoestring fries of the **HAM, EGG 'N' CHIPS** with slightly funky smell of grease and Piccalilli emanating from his body. Even though the shop is stuffed to the gills, Max quickly ushered me to the only table left in the corner. He's clearly in a rush so I went and sat at the table on a wooden bench that's the appropriate size for nursery children. I then realised I was surrounded by every hipster in North-London. They were all staring at me in their Carhartt jackets and rolled up baggy jeans, with stains of egg yolk and chipotle Tabasco running down their face. 
 <br>
 <div align="center">
 <img  src="{{site.baseurl}}/assets/hipster.png" width="400" >
@@ -47,7 +47,12 @@ I order the classic, the **HAM, EGG 'N' CHIPS** and within 5 minutes it's sittin
 
 It's not quite what Esquires made it out to look like. In this case it's more of a jenga tower. A jenga tower of slow cooked ham hock, a fried egg, piccalilli, shoestring fries and malt vinger mayo - all wrapped up in crispy focaccia bread. Almost immediately I started resembling those Red Hot Chilli Pepper loving hipsters; my face sufficiently doused in everything in front of me. Max hobbles over in his idiosyncratic way and interrupted my carnage asking, "hey buddy, everything alright?". It took me a moment to collect myself. I give him the ever familiar full-mouth-silent-nod as he hobbled back to the kitchen. Another happy customer in his sandwich sanctuary. 
 
- ![tabasco]({{site.baseurl}}/assets/tabasco.jpg)
+So let's give an ode to Max, we bottle the ambience of the restaraunt and his sandwiches in a sauce. Come have a watch: 
+![sauce]({{site.baseurl}}/assets/sauce.mp4)
+<br>
+
+![tabasco]({{site.baseurl}}/assets/tabasco.jpg)
+
 
 
 

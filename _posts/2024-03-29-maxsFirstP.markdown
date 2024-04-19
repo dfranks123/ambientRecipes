@@ -48,7 +48,9 @@ I order the classic, the **HAM, EGG 'N' CHIPS** and within 5 minutes it's sittin
 It's not quite what Esquires made it out to look like. In this case it's more of a jenga tower. A jenga tower of slow cooked ham hock, a fried egg, piccalilli, shoestring fries and malt vinger mayo - all wrapped up in crispy focaccia bread. Almost immediately I started resembling those Red Hot Chilli Pepper loving hipsters; my face sufficiently doused in everything in front of me. Max hobbles over in his idiosyncratic way and interrupted my carnage asking, "hey buddy, everything alright?". It took me a moment to collect myself. I give him the ever familiar full-mouth-silent-nod as he hobbled back to the kitchen. Another happy customer in his sandwich sanctuary. 
 
 So let's give an ode to Max, we bottle the ambience of the restaraunt and his sandwiches in a sauce. Come have a watch: 
-![sauce]({{site.baseurl}}/assets/sauce.mp4)
+<video muted autoplay controls>
+    <source src="{{site.baseurl}}/assets/sauce.mp4" type="video/mp4">
+</video>
 <br>
 
 ![tabasco]({{site.baseurl}}/assets/tabasco.jpg)

@@ -51,8 +51,8 @@ So let's give an ode to Max, we bottle the ambience of the restaraunt and his sa
 
 <br>
 <div align="center">
-<video muted autoplay controls>
-    <source src="{{site.baseurl}}/assets/sauce.mp4" type="video/mp4" width="800">
+<video width="800" controls>
+    <source src="{{site.baseurl}}/assets/sauce.mp4" type="video/mp4">
 </video>
 </div>
 ![tabasco]({{site.baseurl}}/assets/tabasco.jpg)

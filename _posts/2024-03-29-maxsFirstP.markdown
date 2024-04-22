@@ -24,12 +24,12 @@ As I step in, I'm immediately greeted by the rich and sweet scent of fried chips
 
 ![max]({{site.baseurl}}/assets/maxhalley.jpg)
 
-I'm greeted by a warm friendly face; a smile beaming from side to side and long shaggy hair. Maybe Max is the hallmark of the shop.  The locks of hair almost resemble those shoestring fries of the **HAM, EGG 'N' CHIPS** with slightly funky smell of grease and Piccalilli emanating from his body. Even though the shop is stuffed to the gills, Max quickly ushered me to the only table left in the corner. He's clearly in a rush so I went and sat at the table on a wooden bench that's the appropriate size for nursery children. I then realised I was surrounded by every hipster in North-London. They were all staring at me in their Carhartt jackets and rolled up baggy jeans, with stains of egg yolk and chipotle Tabasco running down their face. 
+I'm greeted by a warm friendly face; a smile beaming from side to side and long shaggy hair. Maybe Max is the hallmark of the shop.  The locks of hair almost resemble those shoestring fries of the **HAM, EGG 'N' CHIPS** with slightly funky smell of grease and Piccalilli emanating from his body. Even though the shop is stuffed to the gills, Max quickly ushered me to the only table left in the corner. He's clearly in a rush so I went and sat at the table on a wooden bench that's the appropriate size for nursery children. I then realised I was surrounded by every hipster in North-London. They were all staring menacingly at me in their Carhartt jackets and rolled up baggy jeans, with stains of egg yolk and chipotle Tabasco running down their face. I could only feel dispair at esquires restaurant of choice this week. God I can usually trust them.
 <br>
 <div align="center">
 <img  src="{{site.baseurl}}/assets/hipster.png" width="400" >
 </div> <br>
-From their perspective I must really look like a fish out of water, but to me they were. This was the new hot shop on the block. Recently reviewed by Esquires magazine. It was like getting a table at Dorsia, everyone wants a table but they're not sure why - maybe they just want to see what all this fuss is about or maybe everyone wants to be seen somewhere popular. 
+From the hipster's perspective, I must really look like a fish out of water, but to me they were. This was the new hot shop on the block. Recently reviewed by Esquires magazine. It was like getting a table at Dorsia, everyone wants a table but they're not sure why - maybe they just want to see what all this fuss is about or maybe everyone wants to be seen somewhere popular. 
 <br>
 
 <div align="center">
@@ -45,7 +45,7 @@ At that point, I wasn't sure whether to smile or recoil back into the wall with 
 
 I order the classic, the **HAM, EGG 'N' CHIPS** and within 5 minutes it's sitting in front of me. 
 
-It's not quite what Esquires made it out to look like. In this case it's more of a jenga tower. A jenga tower of slow cooked ham hock, a fried egg, piccalilli, shoestring fries and malt vinger mayo - all wrapped up in crispy focaccia bread. Almost immediately I started resembling those Red Hot Chilli Pepper loving hipsters; my face sufficiently doused in everything in front of me. Max hobbles over in his idiosyncratic way and interrupted my carnage asking, "hey buddy, everything alright?". It took me a moment to collect myself. I give him the ever familiar full-mouth-silent-nod as he hobbled back to the kitchen. Another happy customer in his sandwich sanctuary. 
+It's not quite what Esquires made it out to look like. In this case it's more of a jenga tower. A jenga tower of slow cooked ham hock, a fried egg, piccalilli, shoestring fries and malt vinger mayo - all wrapped up in crispy focaccia bread. Almost immediately I started resembling those Red Hot Chilli Pepper loving hipsters; my face sufficiently doused in everything in front of me, Max hobbles over in his idiosyncratic way and interrupted my carnage asking, "hey buddy, everything alright?!". It took me a moment to collect myself. I give him the ever familiar full-mouth-silent-nod as he hobbled back to the kitchen. Belly full. Indoctrinated by hipsters. Another happy customer in his sandwich sanctuary. 
 
 So let's give an ode to Max, we bottle the ambience of the restaraunt and his sandwiches in a sauce. Come have a watch: 
 
@@ -54,9 +54,7 @@ So let's give an ode to Max, we bottle the ambience of the restaraunt and his sa
 <video width="740" controls>
     <source src="{{site.baseurl}}/assets/sauce.mp4" type="video/mp4">
 </video>
-</div>
-![tabasco]({{site.baseurl}}/assets/tabasco.jpg)
-
-
-
-
+<br>
+</div> 
+<div align="center">
+<img  src="{{site.baseurl}}/assets/tabasco.jpg" width="500" >

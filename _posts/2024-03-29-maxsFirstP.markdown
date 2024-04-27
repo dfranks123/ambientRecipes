@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Max's Sandwich Shop First Person Description
+title:  Max's Sandwich Shop
 date:   2024-03-29 07:23:54 +0000
 ---
 ![Sandwich]({{site.baseurl}}/assets/sandwich.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
